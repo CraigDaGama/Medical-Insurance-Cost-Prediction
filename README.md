@@ -68,7 +68,7 @@ The dataset (`insurance.csv`) includes the following columns:
 
 1. Clone this repository:
    ```bash
-   git clone https://https://github.com/CraigDaGama/Medical-Insurance-Cost-Prediction.git
+   git clone https://github.com/CraigDaGama/Medical-Insurance-Cost-Prediction.git
    cd Medical_Insurance_Cost_Prediction
    ```
 
