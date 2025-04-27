@@ -1,5 +1,11 @@
 # Medical Insurance Cost Prediction 
 
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Regression-informational)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 This project builds a **machine learning model** to predict **medical insurance charges** based on personal information such as age, gender, BMI, number of children, smoking habits, and region.
 
 The project involves **data preprocessing**, **exploratory data analysis (EDA)**, **model training**, and **evaluation**.
